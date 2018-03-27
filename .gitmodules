@@ -1,0 +1,8 @@
+[submodule "hugo-elate-theme"]
+	path = hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme
+	branch = master
+[submodule "themes/jane"]
+	path = themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
+	branch = master
