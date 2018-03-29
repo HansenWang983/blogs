@@ -1,5 +1,5 @@
 baseURL = "https://hansenbeast.github.io/"
-title = "Jane - A super concise theme for Hugo"
+title = "Wang ZH的个人博客"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -17,7 +17,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "xianmin"
+  name = "hansenbeast"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -48,12 +48,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2017"            # Site creation time          # 站点建立时间
+  since = "2018"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Jane"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "personal blog"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","jane"]
   description = "Hugo theme jane example site."
 
