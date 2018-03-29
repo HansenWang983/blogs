@@ -1,4 +1,21 @@
-# 逻辑左移，算术左移和循环左移
+---
+title: "逻辑左移，算术左移和循环左移"
+date: 2018-03-27T21:38:52+08:00
+lastmod: 2018-03-27T21:41:52+08:00
+menu: "main"
+weight: 50
+tags: [
+    "Computer Organization"
+    "Encoding"
+]
+categories: [
+    "Basic Concepts"
+]
+
+# you can close something for this content if you open it in config.toml.
+comment: false
+mathjax: false
+---
 
 逻辑左移时，最高位丢失，最低位补0；
 

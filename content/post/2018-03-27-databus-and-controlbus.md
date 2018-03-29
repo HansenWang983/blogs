@@ -1,3 +1,21 @@
+---
+title: "Different Buses in OS"
+date: 2018-03-27T21:38:52+08:00
+lastmod: 2018-03-27T21:41:52+08:00
+menu: "main"
+weight: 50
+tags: [
+    "Computer Organization"
+    "Data Transfer"
+]
+categories: [
+    "Basic Concepts"
+]
+# you can close something for this content if you open it in config.toml.
+comment: false
+mathjax: false
+---
+
 **数据总线**
 
 （1） 是CPU与内存或其他器件之间的数据传送的通道。
@@ -31,3 +49,4 @@ C．地址总线的宽度为30，数据总线的宽度为8
 D．地址总线的宽度为32，数据总线的宽度为8
 答案:A
    内存容量为4GB，即内存单元的地址宽度为32位。字长为32位即要求数据总线的宽度为32位，因此地址总线和数据总线的宽度都为32。
+

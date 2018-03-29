@@ -1,10 +1,32 @@
-**超键(**super key):在关系中能唯一标识元组的属性集称为关系模式的超键
+---
+title: "Concepts about keys and super keys in DBMS"
+date: 2018-03-27T21:38:52+08:00
+lastmod: 2018-03-28T21:41:52+08:00
+menu: "main"
+weight: 50
+tags: [
+    "DBMS"
+    "Keys"
+]
+categories: [
+    "Basic Concepts"
+]
+# you can close something for this content if you open it in config.toml.
+comment: false
+mathjax: false
+---
+
+​	
+
+**超键**(super key):在关系中能唯一标识元组的属性集称为关系模式的超键
 
 **候选键**(candidate key):不含有多余属性的超键称为候选键
 
 **主键(**primary key):用户选作元组标识的一个候选键程序主键
 
 **外键**(foreign key)如果关系模式R1中的某属性集不是R1的主键，而是另一个关系R2的主键则该属性集是关系模式R1的外键。
+
+
 
 **结合实例的具体解释：**
 
