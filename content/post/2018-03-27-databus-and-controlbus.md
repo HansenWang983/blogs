@@ -4,8 +4,9 @@ date: 2018-03-27T21:38:52+08:00
 lastmod: 2018-03-27T21:41:52+08:00
 menu: "main"
 weight: 50
+author: "hansenbeast"
 tags: [
-    "Computer Organization"
+    "Computer Organization",
     "Data Transfer"
 ]
 categories: [
