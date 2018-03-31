@@ -16,7 +16,7 @@ comment: false
 mathjax: false
 ---
 
-[TOC]
+
 
 # 二、空间与运动
 
@@ -460,13 +460,13 @@ public class Parabola : MonoBehaviour {
 
 ### 写一个程序，实现一个完整的太阳系， 其他星球围绕太阳的转速必须不一样，且不在一个法平面上。
 
-![Solar_System1](/Users/hansen/Desktop/Unity3D-Learning/Assignment 2/Assets/Solar_System1.png)
+![Solar_System1](./Assets/Solar_System1.png)
 
-![Solar_System2](/Users/hansen/Desktop/Unity3D-Learning/Assignment 2/Assets/Solar_System2.png)
+![Solar_System2](./Assets/Solar_System2.png)
 
-![Solar_System3](/Users/hansen/Desktop/Unity3D-Learning/Assignment 2/Assets/Solar_System3.png)
+![Solar_System3](./Assets/Solar_System3.png)
 
-![Solar_System4](/Users/hansen/Desktop/Unity3D-Learning/Assignment 2/Assets/Solar_System4.png)
+![Solar_System4](./Assets/Solar_System4.png)
 
 ```c#
 //Rotate1.cs
