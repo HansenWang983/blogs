@@ -26,6 +26,10 @@ mathjax: false
   1. 按 *adapter模式* 设计图修改飞碟游戏
   2. 使它同时支持物理运动与运动学（变换）运动
 
+## 游戏视频：
+
+## https://www.bilibili.com/video/av22537573/
+
 ## adapter模式
 
 > 参考：https://blog.csdn.net/carson_ho/article/details/54910430
@@ -172,7 +176,7 @@ public class AdapterPattern {
 }
 ```
 
-
+爆炸效果：https://blog.csdn.net/jukaiblog/article/details/10343211
 
 ## 同时支持物理运动与运动学（变换）运动的改进版本
 
