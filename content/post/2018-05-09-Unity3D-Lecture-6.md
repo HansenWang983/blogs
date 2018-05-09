@@ -1,5 +1,5 @@
 ---
-title: "Unity 3D Lecture Note 5"
+title: "Unity 3D Lecture Note 6"
 date: 2018-05-09T11:38:52+08:00
 lastmod: 2018-05-09T11:41:52+08:00
 menu: "main"
