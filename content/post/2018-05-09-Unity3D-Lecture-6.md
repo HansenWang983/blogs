@@ -46,7 +46,7 @@ mathjax: false
 
 ### 游戏效果图
 
-![Shoot](/Users/hansen/Desktop/blogs/content/post/Assets/Shoot.png)
+![Shoot](Assets/Shoot.png)
 
 ### 游戏视频:
 
