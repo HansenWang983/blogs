@@ -44,7 +44,13 @@ mathjax: false
 
 > 参考博客：https://blog.csdn.net/c486c/article/details/80153548
 
+### 游戏效果图
 
+![Shoot](/Users/hansen/Desktop/blogs/content/post/Assets/Shoot.png)
+
+### 游戏视频:
+
+http://v.youku.com/v_show/id_XMzYwMDEzMDA5Mg==.html?spm=a2h3j.8428770.3416059.1
 
 ### 订阅与发布模式
 
@@ -139,14 +145,6 @@ public class TurnColorScript : MonoBehaviour
 
 
 *由于尝试了许多Asset Store中的模型和动画均不能得到很好的效果，所以使用了参考博客中的模型和动作。*
-
-### 游戏效果图
-
-![Shoot](Assets/Shoot.png)
-
-### 游戏视频:
-
-
 
 ### 思路：
 
