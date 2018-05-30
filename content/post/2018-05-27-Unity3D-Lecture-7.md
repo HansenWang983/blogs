@@ -28,7 +28,7 @@ mathjax: false
 
 ![result](Assets/result.png)
 
-游戏视频地址：
+游戏视频地址：http://v.youku.com/v_show/id_XMzYzNTM5Njc2NA==.html?spm=a2h3j.8428770.3416059.1
 
 完成内容：
 
