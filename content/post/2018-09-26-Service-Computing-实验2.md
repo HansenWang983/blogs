@@ -18,8 +18,6 @@ mathjax: false
 
 
 
-# Service Computing 实验二：安装 go 语言开发环境
-
 ## 1、安装golang
 
 [官网](https://golang.org/doc/install)
