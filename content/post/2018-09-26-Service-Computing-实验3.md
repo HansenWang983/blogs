@@ -18,6 +18,8 @@ mathjax: false
 
 
 
+# CLI 命令行实用程序开发基础
+
 使用 golang  [开发 Linux 命令行实用程序](https://www.ibm.com/developerworks/cn/linux/shell/clutil/index.html) 中的 **selpg**
 
 > selpg 允许用户指定从输入文本抽取的页的范围，这些输入文本可以来自文件或另一个进程。该实用程序从标准输入或从作为命令行参数给出的文件名读取文本输入。它允许用户指定来自该输入并随后将被输出的页面范围。
@@ -90,8 +92,9 @@ selpg 首先处理所有的命令行参数。在扫描了所有的选项参数�
    这两种情况下，只要页计数器的值在起始页和结束页之间这一条件保持为真，selpg 就会输出文本（逐行或逐字）。当那个条件为假（也就是说，页计数器的值小于起始页或大于结束页）时，则 selpg 不再写任何输出。
 
 
-
 ## 3、golang包的支持
+
+​	[代码地址](https://github.com/hansenbeast/Service-Computing/blob/master/Assignment2-go-env/gowork/src/github.com/hansenbeast/selpg/selpg.go)
 
 1. 使用 pflag 替代 goflag 以满足 Unix 命令行规范
 
@@ -160,7 +163,6 @@ selpg 首先处理所有的命令行参数。在扫描了所有的选项参数�
    }
    ```
 
-   ​
 
 4. 处理输入
 
